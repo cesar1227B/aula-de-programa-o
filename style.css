@@ -21,3 +21,26 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola {
+    background-color: #001f50;
+    color: white;
+    ;
+}
+
+.titulo{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;    
+}
+
+.conteudo{
+    padding: 24px 0;
+    margin: 20px;
+}
+
+.texto{
+    margin: 20px;
+}
