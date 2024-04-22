@@ -44,3 +44,15 @@
 .texto{
     margin: 20px;
 }
+
+.rodape{
+    background-color:  #001f50;
+    text-align: center;
+    
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    background-color: #001f50;
+}
